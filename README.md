@@ -3,10 +3,8 @@
 ## Datos del Grupo
 - **Nombre del Proyecto**: El impacto de las nuevas tecnologías en la sociedad: visualización del futuro
 - **Integrantes**:
-  - [Tu Nombre Completo] - [Matrícula]
-  - [Nombre del Compañero] - [Matrícula]
-  - [Nombre del Compañero] - [Matrícula]
-- **Asignatura**: [Nombre de la Materia]
+  - Jefferson Cuascota
+- **Asignatura**: LOGICA DE PROGRAMACION
 - **Fecha de Entrega**: 20 de Abril de 2026 (Semana 8)
 
 ## Objetivo del Programa
